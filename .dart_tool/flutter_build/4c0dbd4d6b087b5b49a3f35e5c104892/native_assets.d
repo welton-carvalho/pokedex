@@ -1,0 +1,1 @@
+ C:\\Users\\welto\\projetos\\flutter\\pokedex\\.dart_tool\\flutter_build\\4c0dbd4d6b087b5b49a3f35e5c104892\\native_assets.yaml: 
