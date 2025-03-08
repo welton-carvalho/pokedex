@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       showPerformanceOverlay: false,      
       checkerboardOffscreenLayers: false,
       showSemanticsDebugger: false,
-      home: HomePage(title: 'Pokemon'),
+      home: HomePage(),
     );
   }
 }

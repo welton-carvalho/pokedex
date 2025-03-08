@@ -6,6 +6,7 @@ class HomeRepository {
   final HomeApi _homeApi = HomeApi();
   late List<PokemonVo> pokemons;
   late int _totalItens;
+  int get totalPokemons => _totalItens;
 
   HomeRepository();
   Future<List<PokemonVo>> getPokemons() async {

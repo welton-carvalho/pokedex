@@ -13,7 +13,8 @@ class AppColors{
 }
 
 class PokemonColors {
-  static const Color bug = Color(0xFF75574C); // 0xFF + original hexadecimal
+  static const Color bug = Color(0xFFA7B723); // 0xFF + original hexadecimal
+  static const Color dark = Color(0xFF75574C);
   static const Color dragon = Color(0xFF7037FF);
   static const Color electric = Color(0xFFF9CF30);
   static const Color fairy = Color(0xFFE69EAC);

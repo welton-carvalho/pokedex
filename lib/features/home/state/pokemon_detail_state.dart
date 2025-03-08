@@ -10,3 +10,8 @@ class PokemonSuccess extends PokemonState {
   final List<PokemonVo> pokemons;
   PokemonSuccess(this.pokemons);
 }
+
+class PokemonLoadMore extends PokemonState {
+   final List<PokemonVo> pokemons;
+  PokemonLoadMore(this.pokemons);
+}

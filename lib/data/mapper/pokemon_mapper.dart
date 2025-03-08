@@ -36,6 +36,7 @@ class PokemonMapper {
 
       final pokemonColor = switch (types[0].name.toLowerCase()) {
         "bug" => PokemonColors.bug,
+        "dark" => PokemonColors.dark,
         "dragon" => PokemonColors.dragon,
         "electric" => PokemonColors.electric,
         "fairy" => PokemonColors.fairy,

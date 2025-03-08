@@ -1,5 +1,29 @@
-.dart_tool
-.idea
-.vscode
-build
+# Arquivos e diretórios gerados pelo Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Arquivos de configuração do VSCode
+.vscode/
+
+# Arquivos de configuração do IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cobertura de testes
+coverage/
+
+# Arquivos de configuração do Dart
 pubspec.lock
